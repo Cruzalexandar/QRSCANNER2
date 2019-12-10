@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR SCANNER</string>
+    <style name="NoActionBar"/>
+</resources>
